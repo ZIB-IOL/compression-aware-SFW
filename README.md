@@ -1,5 +1,5 @@
 ## Compression-aware Training of Neural Networks using Frank-Wolfe
-*Authors: Max Zimmer, [Christoph Spiegel](http://www.christophspiegel.berlin/), [Sebastian Pokutta](http://www.pokutta.com/)*
+*Authors: [Max Zimmer](https://maxzimmer.org/), [Christoph Spiegel](http://www.christophspiegel.berlin/), [Sebastian Pokutta](http://www.pokutta.com/)*
 
 This repository contains the code to reproduce the experiments from the ["Compression-aware Training of Neural Networks using Frank-Wolfe" (arXiv:2205.11921)](https://arxiv.org/abs/2205.11921) paper.
 The code is based on [PyTorch 1.9](https://pytorch.org/) and the experiment-tracking platform [Weights & Biases](https://wandb.ai).
